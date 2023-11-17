@@ -294,6 +294,11 @@ line-height: 30px;
         background-color: #407fc7;
       }
       
+      .greetting {
+        font-size: larger;
+        display: flex ;
+        
+      }
       
       /* ------------- Para Pantallas de más de 700px ------------- */
       
@@ -301,3 +306,6 @@ line-height: 30px;
       .form-row button {
           margin-left: 120px;
   
+
+       
+        
